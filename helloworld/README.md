@@ -7,7 +7,7 @@
 - Install Node.js, pilih npm package manager
 - Restart Laptop
 - Buat direktori baru "helloworld"
-- Kerjakan comman berikut pada Command Prompt
+- Kerjakan command berikut pada Command Prompt
   ```
   npm install express --save
   npm install body-parser --save
